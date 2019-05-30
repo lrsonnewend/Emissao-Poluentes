@@ -4,4 +4,6 @@ Trabalho realizado pelos alunos [Lucas Sonnewend](github.com/lrsonnewend) e [Pau
 
 A fonte dos dados em CSV foi tirada do site [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/emissoes-de-poluentes-atmosfericos/resource/4c94cd16-9dde-4a4c-bcaa-0b113bd37926).
 
-As informações oficiais encontram-se no site [IBAMA](https://www.ibama.gov.br/)
+As informações oficiais encontram-se no site [IBAMA](https://www.ibama.gov.br/), contendo os principais estados e municípios que emitem poluentes (em quantidade) e o método de emissão do mesmo. 
+
+
